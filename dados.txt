@@ -4,8 +4,8 @@ Dados do aluno
 -Profissão: analista de qa
 -Cidade: jaboatão
 -O que faz nas horas vaga: estudo 
--Feedback sobre o curso Qualidade de Software: otimo
--Feedback sobre a plataforma de estudo da EBAC: otimo
+-Feedback sobre o curso Qualidade de Software: ótimo
+-Feedback sobre a plataforma de estudo da EBAC: ótimo
 
 Obrigado!!!
 
